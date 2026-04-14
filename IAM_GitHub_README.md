@@ -1,9 +1,9 @@
-# 🔐 IAM Help Desk Project: User Access Management (Department Transfer)
+# 💻 Help Desk Incident: User Access Management (Department Transfer)
 
 ## 📌 Project Overview
 
 This project demonstrates a real-world Identity and Access Management
-(IAM) scenario involving a user department transfer. The objective was
+(IAM) Scenario involving a user department transfer. The objective was
 to update user permissions in Active Directory to align with the new
 role while enforcing security best practices.
 
